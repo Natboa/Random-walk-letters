@@ -1,5 +1,4 @@
 # Random Walk Letters in C
-
 A simple C program that creates a random path of letters A to Z through a grid. Built as part of a personal learning exercise to practice arrays, loops, and randomness in C.
 
 ## Description
@@ -17,10 +16,12 @@ Created to practice C programming and build logic using arrays and random paths.
 Each run gives different results. Here are two examples:
 
 ### Example 1
-![Random Walk Output 1](attachment:file-PS1w34UoMXNJv92Y99U8ph)
+![image](https://github.com/user-attachments/assets/e2c66930-cc7f-4daf-9d93-6465bb587ba9)
+
 
 ### Example 2
-![Random Walk Output 2](attachment:file-Wp5B3VtccWwq25qaMK5R62)
+![image-1](https://github.com/user-attachments/assets/959164c9-d03b-4f13-a785-7f11e3be7a75)
+
 
 ## Run It
 ```bash
